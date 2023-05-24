@@ -1,3 +1,4 @@
 # Curso de git 
 
-## Gravando mudanças no repositório
+## Gravando mudanças
+tentando colocar a mesma versão no pc no site
