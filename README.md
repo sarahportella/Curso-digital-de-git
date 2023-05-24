@@ -1,4 +1,4 @@
 # Curso de git 
 
-## Gravando mudanças
-tentando colocar a mesma versão no pc no site
+## Gravando mudanças no repositório
+* comando git push
